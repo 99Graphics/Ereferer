@@ -1,0 +1,114 @@
+/*************************wraper_footer****************/
+.wraper_footer{
+    width: 100%;
+    background: #293846;
+    display: inline-block;
+    padding-bottom: 0;
+}
+.titlefooter{
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+}
+.footernetwork{
+    text-align: center;
+}
+.footernetwork li{
+    display: inline-block;;
+}
+.footernetwork li a{
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    color: #fff;
+    font-size: 16px;
+    display: inline-block;
+    background: #495662;
+    border-radius: 999px;
+    margin: 5px;
+}
+.footernetwork li a:hover{
+    background: #19aa89;
+    color: #fff;
+    
+}
+.footer_navbar,
+.footeraddress,
+.footerlogo{
+    margin-top: 50px;
+}
+.titlefooter{
+    font-size: 20px;
+    padding: 15px 0;
+    color: #fff;
+}
+.titlenavbar{
+    font-size: 20px;
+    padding: 15px 0;
+    color: #19aa89;
+}
+.footer_text{
+    width: 48%;
+    float: left;
+}
+.spacework{
+    float: right;
+}
+.footer_navbar li,
+.footer_text li {
+    padding: 10px;
+
+}
+.footer_navbar li a,
+.footer_text li a{
+    color: #fff;
+    font-size: 16px;
+    
+}
+
+.emailint{
+    padding: 10px;
+    border: none;
+    height: 50px;
+    border-radius: 0;
+}
+.emailint:focus{
+    background: #fff;
+}
+.btnsubcrib input{
+    border: none;
+    background: url(../images/icon/bnt.jpg) no-repeat;
+    background-size: 60px;
+    color: #fff !important;
+    font-size: 16px;
+    text-transform: uppercase;
+    width: 60px;
+    display: inline-block;
+    border-radius: 0;
+    height: 50px;
+    margin-left: -1px;
+}
+.footeraddress p{
+    color: #fff;
+    display: flex;
+    font-size: 16px;
+}
+.footeraddress i{
+    color: #19aa89;
+    font-size: 18px;
+    margin-right: 10px;
+    margin-top: 3px;
+}
+.wraperfootercoppy{
+    margin-top: 50px;
+    border-top:1px solid #475969;
+}
+.coppyright{
+    width: 100%;
+}
+.coppyright p{
+    font-size: 14px;
+    padding-top: 50px;
+    color: #fff;
+}

@@ -1,0 +1,352 @@
+/**********************Login*******************************/
+.Loginsite{
+    padding: 25px 0;
+}
+.logo-here{
+    display: none;
+}
+.language .btn-secondary,
+.language .btn-secondary:hover {
+    background-color: transparent !important;
+    color: #0baa75 !important;
+    border: none !important;
+    font-weight: 600;
+}
+.btn-secondary:focus, .btn-secondary.focus {
+    box-shadow: 0 0 0 0rem rgba(130, 138, 145, 0.5);
+}
+.loginsite{
+    display: flex;
+}
+.loginsite .input-group{
+    border-bottom: 1px solid #ccc;
+    margin: 0 25px;
+}
+.loginsite .input-group .iconuser{
+    color: #19aa89;
+    margin-top: 6px;
+}
+.instcst{
+    border: none;
+    padding:0 10px;
+}
+.btnlogin .btnlogin{
+    background: #19aa89;
+    color: #fff;
+    padding: 6px 30px;
+    border: none;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 4px;
+}
+.form-control:focus {
+    color: #000;
+    background-color: transparent;
+    border-color: #80bdff;
+    outline: 0;
+    box-shadow: 0 0 0 0rem rgba(0, 123, 255, 0.25);
+}
+
+/**********************Banner******************/
+.banner_content{
+    margin-top: 50px;
+}
+.banner_content h1{
+    color: #737578;
+    font-size: 40px;
+}
+.banner_content h3{
+    color: #19aa89;
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing:4px;
+}
+.banner_content p{
+    color: #737578;
+    font-size:18px;
+    font-weight: 100;
+    padding-right: 30px;
+}
+.btn_eref a{
+    color: #fff;
+    background: #19aa89;
+    font-size:18px;
+    font-weight: 100;
+    padding:10px 30px;
+    border-radius: 4px;
+    display: inline-block;
+    margin-top: 20px;
+    border: 1px solid #19aa89;
+    margin-right: 10px;
+}
+.btn_eref a:hover{
+    border: 1px solid #19aa89;
+    background: transparent;
+    color: #19aa89;
+}
+/*******************ouetersection***************/
+.content_eref{
+    background: #fff;
+    box-shadow: 0px 0px 15px #ccc;
+    padding: 25px;
+    text-align: left;
+    border-radius: 10px;
+}
+.iconoure img{
+    width: 60px;
+}
+.content_eref h4{
+    color: #19aa89;
+    font-size: 24px;
+    padding-bottom: 0;
+}
+.content_eref p{
+    color: #737578;
+    font-size: 19px;
+}
+/*****************LinkedSeo************/
+.LinkedSeo{
+    width: 100%;
+    background: #f2f3f8;
+}
+.title_site{
+    text-align: center;
+}
+.title_site h5{
+    color: #19aa89;
+    letter-spacing: 3px;
+    font-size: 21px;
+    padding-bottom: 0;
+    font-weight: 500;
+}
+.title_site h2{
+    font-size: 42px;
+    padding-top: 5px;
+    color: #737578;
+    font-weight: 400;
+}
+.breck_dn{
+    display: inherit;
+}
+.listSeo_con,
+.PictureSeo{
+    margin-top: 50px;
+}
+.PictureSeo{
+    width: 95%;
+}
+
+.iconseo{
+    width: 100px;
+    height: 100px;
+    line-height: normal;
+    padding: 20px;
+    border-radius: 999px;
+    float: left;
+}
+.listSeo_con li{
+   display: inline-block;
+   margin-left: 10px;
+}
+.iconseo img{
+    width: 94%;
+    margin: auto;
+}
+.content-seo{
+    width: 75%;
+    float: right;
+}
+.content-seo h4{
+    padding-bottom: 0;
+    font-size: 21px;
+    color: #19aa89;
+}
+.content-seo p{
+    font-size: 18px;
+    color: #737578;
+}
+.listSeo_con li:last-child,
+.listSeo_con li:first-child{
+    margin-left: -45px;
+}
+.listSeo_con li:nth-of-type(odd) .iconseo{
+    border: 1px solid #19aa89;
+}
+.listSeo_con li:nth-of-type(even) .iconseo{
+    border: 1px solid #babbbf;
+}
+/****************Business****************/
+
+.list-business{
+    display: flex;
+    width: 533px;
+    float: right;
+    margin-top: 50px;
+}
+.business_pic{
+    margin-top: 56px;
+}
+.business_content h4{
+    color: #19aa89;
+    font-size: 21px;
+    padding-bottom: 0;
+}
+.business_content p{
+    color: #737578;
+    font-size: 18px;
+}
+.iconbuss{
+    width: 100px;
+    height: 100px;
+    background: #fff;
+    box-shadow: 0px 0px 15px #ccc;
+    padding: 20px;
+    border-radius: 999px;
+    margin-top: 15px;
+}
+.iconbuss img{
+    width: 100%;
+}
+.business_content{
+    width: 80%;
+    padding-left: 18px;
+}
+/****************Freelancer****************/
+.Freelancer{
+    background: url(../images/backgound.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+.tailsfree h4{
+    color: #fff;
+    font-size: 42px;
+    font-weight: 500;
+}
+.tailsfree p{
+    color: #fff;
+    font-size: 24px;
+    padding-top: 0;
+}
+.signupbtn{
+    text-align: center;
+    margin-top: 60px;
+}
+.signupbtn a{
+    color: #19aa89;
+    padding: 8px 30px;
+    background: #fff;
+    border-radius: 4px;
+    font-size: 21px;
+}
+/***************Wraperaction*****************/
+.Action_content h5{
+    color: #19aa89;
+    letter-spacing: 3px;
+    font-size: 21px;
+    padding-bottom: 0;
+
+}
+.Action_content h3{
+    font-size: 42px;
+    padding-top: 5px;
+    color: #737578;
+    font-weight: 400;
+}
+.Action_content p{
+    color: #737578;
+    font-size: 18px;
+}
+.Ereferervideos{
+    width: 100%;
+    height: 323px;
+    border-radius: 10px;
+}
+.videothumbnails{
+    position: relative;
+}
+.playbtn {
+    width: 100px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 36%;
+    margin: auto;
+    cursor: pointer;
+}
+.playbtn img{
+    width: 100%;
+    border-radius: 10px;
+}
+#yt {
+    display: none;
+}
+.Ereferervideos iframe{
+    width: 100%;
+    height: 323px;
+    border-radius: 10px;
+}
+/*******************WraperCounter****************************/
+.wrapercounter{
+   position: relative;
+   z-index: 1;
+}
+.wrapercounter:after{
+    content: '';
+    width: 100%;
+    height: 130px;
+    background: url(../images/bg_effect.jpg) no-repeat;
+    background-size: cover;
+    position: absolute;
+    bottom: -56px;
+    left: 0;
+    right: 0;
+    z-index: -1;
+}
+.love_counter,
+.love_counter2{
+    margin-top: 50px;
+    text-align: center;
+}
+.love_count,
+.love_count2 {
+    font-size:48px;
+    color: #0baa75;
+    display: block;
+    font-weight: 600;
+    position: relative;
+}
+.love_count2:after,
+.love_count:after{
+    content: '';
+    width: 10px;
+    height: 10px;
+    background:#0baa75;
+    position: absolute;
+    bottom:-6px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    border-radius: 999px;
+}
+.love_counter img,
+.love_counter2 img{
+    width: 45px;
+}
+.love_counter p,
+.love_counter2 p{
+    font-size: 21px;
+    color: #737578;
+}
+
+.iconcounter {
+    width: 80px;
+    height: 80px;
+    padding: 11px;
+    border-radius: 999px;
+    background: #ffffff47;
+    box-shadow: 0px 0px 10px #ccc;
+    margin: auto;
+    margin-top:35px;
+}
+.wrapercaptute{
+    padding-top: 140px;
+}

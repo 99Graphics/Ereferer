@@ -1,0 +1,123 @@
+
+
+.ui-page-theme-a .ui-btn.ui-btn-active,
+.ui-bar-a .ui-btn.ui-btn-active,
+.ui-body-a .ui-btn.ui-btn-active,
+.ui-group-theme-a .ui-btn.ui-btn-active,
+.ui-btn.ui-btn-a.ui-btn-active,
+.ui-page-theme-a .ui-checkbox-on:after,
+.ui-bar-a .ui-checkbox-on:after,
+.ui-body-a .ui-checkbox-on:after,
+.ui-group-theme-a .ui-checkbox-on:after,
+.ui-btn.ui-checkbox-on.ui-btn-a:after,
+.ui-page-theme-a .ui-flipswitch-active,
+.ui-bar-a .ui-flipswitch-active,
+.ui-body-a .ui-flipswitch-active,
+.ui-group-theme-a .ui-flipswitch-active,
+.ui-flipswitch.ui-bar-a.ui-flipswitch-active,
+.ui-page-theme-a .ui-slider-track .ui-btn-active,
+.ui-bar-a .ui-slider-track .ui-btn-active,
+.ui-body-a .ui-slider-track .ui-btn-active,
+.ui-group-theme-a .ui-slider-track .ui-btn-active,
+.ui-slider-track.ui-body-a .ui-btn-active {
+       background-color: #19aa89;
+    border-color: #19aa89;
+    color: #fff;
+    text-shadow: 0 1px 0 #19aa89;
+}
+.ui-slider-track .ui-btn.ui-slider-handle {
+    font-size: 0em;
+    line-height: 30px;
+    background-color: #19aa89;
+   	color: #19aa89;
+    border-radius: 999px;
+    -webkit-transition: all 0s ease-in-out; 
+    -moz-transition: all 0s ease-in-out;
+    -o-transition: all 0s ease-in-out;
+   transition: all 0s ease-in-out;
+}
+
+
+.ui-slider-track {
+	overflow: visible;
+	border-width: 0px;
+	border-style: solid;
+	height:2px;
+	background: #dbdbdb;
+	border-radius: 999px;
+}
+
+.ui-slider-track .ui-slider-bg {
+    height: 100%;
+}
+.ui-slider-track .ui-btn.ui-slider-handle {
+    position: absolute;
+    z-index: 1;
+    top: 10px;
+    width: 13px;
+    height: 13px;
+    margin: -16px 0 0 -9px;
+    outline: 0;
+    padding: 0;
+}
+
+
+.ui-field-contain .ui-slider-switch,
+.ui-field-contain.ui-hide-label .ui-slider-switch,
+.ui-popup .ui-field-contain .ui-slider-switch {
+    display: inline-block;
+    width: 5.8em;
+}
+
+.ui-slider-popup {
+    position: absolute !important;
+    text-align: center;
+    z-index: 100;
+    display: none !important;
+}
+
+
+.ui-rangeslider .ui-slider-input.ui-rangeslider-last {
+    float: right;
+}
+.ui-rangeslider .ui-rangeslider-sliders {
+    position: relative;
+    overflow: visible;
+    height: auto;
+    width:100%;
+    margin: auto;
+    top: -70px;
+}
+.ui-rangeslider .ui-rangeslider-sliders .ui-slider-track {
+    position: absolute;
+    top:20px;
+    right: 10px;
+    left: 20px;
+    margin: 0;
+}
+.ui-shadow-inset.ui-corner-all.ui-slider-input{
+	border-radius: 999px;
+	width: 30px;
+	height: 30px;
+	text-align: center;
+	line-height: 30px;
+	justify-content: center;
+	align-items: center;
+	border: 1px solid #19aa89;
+	padding: 0;
+	margin: 0;
+	font-size: 14px;
+	background: #e4e6ee;
+    margin-top:40px;
+}
+/* Chrome, Safari, Edge, Opera */
+input.ui-shadow-inset.ui-corner-all.ui-slider-input::-webkit-outer-spin-button,
+input.ui-shadow-inset.ui-corner-all.ui-slider-input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number].ui-shadow-inset.ui-corner-all.ui-slider-input {
+  -moz-appearance: textfield;
+}

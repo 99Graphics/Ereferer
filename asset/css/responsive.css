@@ -1,0 +1,569 @@
+ #wraper-content-ereferer {
+        padding-left: 217px !important;
+        transition: 1s;
+    }
+
+@media(min-width:1800px) {
+.Sites-Box,
+.chartBox_E {
+    padding-right:6rem;
+}
+}
+@media(min-width:1440px) {
+.banner_find_site img{
+    width: 100%;
+    height: auto;
+}
+}
+@media(min-width:1440px) and (max-width: 1800px) {
+.Sites-Box,
+.chartBox_E {
+    padding-right:4rem;
+}
+
+}
+@media(min-width:991px) {
+#sidebar-navbar {
+    width: 212px;
+    height: 100vh;
+    float: left;
+}
+#wraper-content-ereferer.toggled {
+    padding-left: 0 !important;
+}
+#ErefererAchat.toggled #sidebar-navbar {
+    width: 0;
+}
+#ErefererAchat.toggled #wraper-content-ereferer {
+    position: relative;
+    margin-right: 0;
+    padding-left:12px !important;
+}
+#wraper-content-ereferer {
+    padding: 20px;
+    position: relative;
+    height: 100vh;
+    top: 101px;
+}
+}
+@media (max-width: 1199px) {
+.first-grid {
+    width: 54%;
+}
+.logoE{
+    width:282px;
+}
+.Erefereuser .nav-item.dropdown {
+    width: 93px;
+}
+.user_info li a {
+    padding: 0 8px;
+    margin-top: 6px;
+}
+.user_info {
+    width: 77px;
+}
+.user_info li span.alrt_E {
+    width: 8px;
+    height: 8px;
+    top:0px;
+    right: 4px;
+}
+.tempw,
+.days{
+    font-size: 24px;
+}
+
+.icon-navicon#menu-toggle a, .icon-navicon#menu-toggle a:hover, .icon-navicon#menu-toggle a:focus {
+    margin-left: 0;
+}
+.serachbar {
+    margin-left: 0;
+    padding-top: 6px;
+}
+.logout a {
+    padding-left: 8px;
+}
+#sidebar-navbar {
+    width:180px;
+}
+#ErefererAchat.toggled #sidebar-navbar {
+    width:0px;
+}
+#wraper-content-ereferer {
+    padding-left: 186px !important;
+}
+.icon-navicon {
+    width: 60px;
+}
+.Sites-Box .Eref_action{
+    width: 30%;
+}
+.tooltip-top p {
+    width: 275px;
+}
+.grid_with_L .grid_with_R.radio-inline{
+    width: 100%;
+}
+.toolinfoP {
+    left: 36px;
+}
+.Profile_User_box {
+    padding: 16px;
+}
+.balence_cart {
+    width: 100px;
+    height: 100px;
+    padding: 24px;
+}
+.balnece_box_user {
+    padding: 20px;
+    height: 151px;
+}
+.Completeness ul {
+    display: inline-block;
+}
+.Completeness ul>li {
+    display: inline-block;
+    padding: 9px 0;
+    width: 49%;
+}
+.time_com,
+.time_wors {
+    width: 100%;
+}
+.Completeness ul>li:nth-of-type(3),
+.Completeness ul>li:nth-of-type(2){
+    background-position: 0px 12px;
+}
+.btnred_commands a,
+.btnblue_commands a {
+    padding: 9px 25px;
+}
+.slider_rang_site_list,
+.left_nav_list_filter {
+    width: 100%;
+    float: none;
+}
+.left_nav_list_filter li{
+    display: inline-block;
+}
+.Range-slider-eref {
+    width: 29%;
+}
+.bottom-filter-box {
+    flex-direction: column;
+}
+.table_chart_box_list {
+    width: 1366px;
+    display: grid;
+    overflow-x: scroll;
+}
+.col-21-l {
+    position: relative;
+    -ms-flex: 0 0 50%;
+    flex: 0 0 100%;
+    max-width: 100%;
+    display: inherit;
+    justify-content: center;
+}
+.banner_find_site img {
+    width: 100%;
+    height: 247px;
+    object-fit: cover;
+    position: relative;
+    object-position: 30% 0;
+}
+.amountheredis .boltheretext {
+    padding-right:0px;
+    width: 80%;
+}
+.cstdislmodal{
+    max-width:95%;
+}
+.content_Graph li {
+    font-size: 15px;
+}
+}
+@media (max-width: 991px) {
+.navigationtop {
+    display: inline-block;
+}
+.first-grid {
+    width: 64%;
+    float: left;
+}
+.middle-grid {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 35%;
+    float: right;
+}
+.last-grid {
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+.logout a {
+    padding-left: 21px;
+}
+
+#sidebar-navbar {
+    width:0px;
+    top: 137px;
+}
+#ErefererAchat.toggled #sidebar-navbar {
+    width:180px;
+}
+#wraper-content-ereferer {
+    padding: 0px !important;
+    width: 100%;
+    top: 165px;
+}
+.Eref_action {
+    width: 30%;
+    padding: 20px 0 20px 35px;
+}
+.chartBox_E {
+    width: 70%;
+}
+.Sites-Box .Eref_action {
+    width: 38%;
+}
+.creator_box_ere {
+    width: 83%;
+}
+.title_creator {
+    font-size: 19px;
+}
+.Sites-creator label {
+    font-size: 16px;
+}
+.ctrincts {
+    font-size: 13px;
+}
+.grid_with_L,
+.grid_with_R {
+    width: 100%;
+    float: none;
+}
+.radiobuttons .grid_with_R,
+.radiobuttons .grid_with_L{
+    width: 48%;
+    float: left;
+}
+.toolinfoP {
+    left: 0;
+}
+
+.User_profile_details {
+    margin-right:0px;
+    width: 60%;
+}
+.profile_pic_Ere_4h5 {
+    margin-right: 28px;
+}
+.btncom_see_ed a.edit,
+.btncom_see_ed a.see {
+    padding: 10px 35px;
+}
+.articles_details h4 {
+    font-size: 15px;
+}
+.pegination_next ul li{
+    display: inline-block;
+}
+.pegination_next .pagination {
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    display: inline-block;
+}
+.banner_heading {
+    width: 45%;
+    right: 50px;
+}
+.left_nav_list_filter li a {
+    width: 170px;
+}
+.content_Graph {
+    width: 100%;
+}
+.publicationT{
+    flex-wrap: wrap;
+    width: 100%;
+}
+.publicationT ul {
+    width: 48%;
+}
+}
+@media (max-width: 767px) {
+.navigationtop {
+    display: inline-block;
+    position: static;
+    width: 100%;
+    padding: 20px 15px;
+}
+#sidebar-navbar {
+    position: absolute;
+    top: 0px;
+}
+.first-grid {
+    width: 100%;
+    float: left;
+    display: inline-block;
+}
+.logoE {
+    width: 172px;
+    float: left;
+}
+.icon-navicon {
+    width: 60px;
+    float: right;
+}
+.middle-grid {
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    float: none;
+}
+.last-grid {
+    width: 100%;
+    padding-top: 12px;
+    justify-content: center;
+    align-items: center;
+}
+.Erefereuser .nav-item.dropdown {
+    width: 93px;
+    float: left;
+}
+.user_info {
+    width: 34%;
+    float: left;
+}
+.user_prof{
+    width: 34%;
+    float: right;
+}
+#wraper-content-ereferer {
+    top: 212px;
+}
+.sitesule-details_edit,
+.sitesule-details,
+.ereferer_sitesbox {
+    width: 100%;
+    float: none;
+    display: inline-block;
+}
+.chartBox_E {
+    width: 100%;
+    height:auto;
+    float: none;
+    margin-top: -1px;
+    padding: 20px 10px 20px 10px;
+}
+.Eref_action {
+    width: 100%;
+    padding: 20px;
+    height: auto;
+    margin-top: 40px;
+}
+.Sites-Box {
+    width: 100%;
+    padding: 20px 20px 78px 20px;
+}
+.Sites-Box.mt-5{
+    margin-top: 20px !important;
+}
+.Sites-Box .Eref_action {
+    width: 100%;
+    padding: 0;
+    margin-top: 0;
+}
+.message .message-content {
+    padding: 10px;
+    margin-left: 4.5rem;
+    font-size: 14px;
+}
+.message.self .message-content{
+    padding: 10px;
+    margin-right: 4.5rem;
+    font-size: 14px;
+}
+.avatar.avatar-sm {
+    height: 4rem;
+    width: 4rem;
+    min-width: 4rem;
+    top: 5px;
+}
+.message.self .message-content:before {
+    background: url(../img/chevright.png)no-repeat;
+    background-size: 25px;
+}
+.message .message-content:before {
+    background-size: 45px;
+}
+.creator_box_ere {
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+}
+.btncreaterE a {
+    font-size: 17px;
+    padding: 7px 40px;
+}
+.or {
+    width: 100%;
+    margin: 9px;
+    display: inline-block;
+}
+.radiobuttons .grid_with_R, .radiobuttons .grid_with_L {
+    width: 100%;
+    float: none;
+}
+.toolinfoP {
+    left: 0;
+    top: 9px;
+    width: 100%;
+    float: none;
+}
+.Sites-creator .form-group {
+    margin-bottom: 15px;
+}
+.Profile_User_box{
+    flex-direction: column;
+}
+.profile_pic_Ere_4h5 {
+    margin-right:0px;
+    order: 1;
+}
+.balnece_box_user{
+    order: 2;
+    margin-top: 20px;
+    padding: 10px 20px;
+    height: 100%;
+}
+.User_profile_details {
+    margin-right: 0px;
+    width: 100%;
+    order: 3;
+}
+.Completeness ul>li {
+    display: inline-block;
+    padding: 9px 4px;
+    width: 100%;
+}
+.tooltip-top p {
+    transform: translate(0%, 10px);
+}
+.banner_find_site img {
+    width: 100%;
+    height: 216px;
+    object-fit: cover;
+    position: relative;
+    object-position: 16%;
+}
+.banner_heading {
+    width: 100%;
+    right: 0;
+    position: relative;
+    background: #19aa89;
+    top: -2px;
+    padding: 20px;
+}
+.left_nav_list_filter {
+    width: 100%;
+    float: none;
+    text-align: center;
+}
+.left_nav_list_filter li a {
+    width: auto;
+    padding: 5px 10px;
+    font-size: 14px;
+}
+.Range-slider-eref {
+    width: 100%;
+}
+.add-categorisbtn {
+    width: auto;
+    float: none;
+}
+.Range-slider-eref.tooltripflow{
+    order: 1;
+    text-align: center;
+}
+.radiobuttons hr{
+        display: inline-block;
+    width: 100%;
+    margin:0;
+    border: none;
+}
+.content_Graph ul {
+    width: 100%;
+}
+.content_Graph {
+    width: 100%;
+    flex-wrap: wrap;
+}
+.number_ds_4fh {
+    width: 100px;
+    margin-left: 1rem;
+}
+.cstdislmodal {
+    max-width: 100%;
+}
+}
+@media (max-width:540px) {
+.titleboxAchat h1,
+.contentEre h4 {
+    font-size: 14px;
+}
+.titleboxAchat p,
+.inportant_ifo p,
+.contentEre p,
+.show_art_re .show_hide, .show_art_re .show_hide2, .show_art_re .show_hide3{
+    font-size: 14px;
+}
+.Sites-creator .bootstrap-select .dropdown-toggle .filter-option-inner-inner,
+.Sites-creator .form-check label {
+    overflow: hidden;
+    font-size: 14px;
+}
+.textboldop .titlemeta,
+.titlemeta {
+    font-size: 15px;
+}
+.writeint {
+    width: 100%;
+    display: inline-block;
+    align-items: left;
+    justify-content: left;
+}
+.articlesnt input {
+    margin: 0 0 10px 0;
+}
+.rdio-big_wt label {
+    height: auto;
+}
+.footertitle4d,
+.User_profile_details p {
+    font-size: 16px;
+    position: relative;
+}
+.Sites-creator .step3CreatoreS .form-group {
+    width: 100%;
+    margin: 10px 0;
+}
+.User_profile_details h4 {
+    font-size: 18px;
+}
+
+.banner_heading h1 {
+    font-size:18px;
+}
+.banner_heading p {
+    font-size: 14px;
+}
+}
